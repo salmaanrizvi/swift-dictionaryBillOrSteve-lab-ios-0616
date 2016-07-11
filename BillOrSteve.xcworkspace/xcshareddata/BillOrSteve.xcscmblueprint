@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : 0,
+    "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A0D09234-3FDD-46ED-A65D-A9CC44B3F63C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "101F25E83F95081DC9182A8A4CDC0D519019991E" : "",
+    "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA" : "swift-dictionaryBillOrSteve-lab-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BillOrSteve",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BillOrSteve.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-dictionaryMethods-readme-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "101F25E83F95081DC9182A8A4CDC0D519019991E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salmaanrizvi\/swift-dictionaryBillOrSteve-lab-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA"
+    }
+  ]
+}
